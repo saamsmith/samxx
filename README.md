@@ -1,4 +1,4 @@
-# samxx
+## samxx
 
 个人博客
 
