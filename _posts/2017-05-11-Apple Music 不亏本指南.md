@@ -54,13 +54,11 @@ Apple Music 有 3 个月的试用期，过了试用期之后，美区是 10 刀/
 ## 如何使用
 
 ### iOS 界面
-![Apple Music For iOS]({{ site.url }}/assets/img/Apple Music iPhone.jpg)
+![Apple Music For iOS](/samxx/assets/img/Apple Music iPhone.jpg)
 
 ### Mac 界面
-![Apple Music For mac]({{ site.url }}/assets/img/Apple Music Albums.jpg)
-![Apple Music For mac]({{ site.url }}/assets/img/Apple Music For You.jpg)
-
-{{ site.url }}操蛋
+![Apple Music For mac](/samxx/assets/img/Apple Music Albums.jpg)
+![Apple Music For mac](/samxx/assets/img/Apple Music For You.jpg)
 
 ## 总结
 Apple Music 劣势很明显，不符合国内用户的使用习惯，本文不是强行推荐 Apple Music，只是刚好满足我的使用需求，顺带说说怎样才能值回票价。
