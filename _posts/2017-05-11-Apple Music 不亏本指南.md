@@ -1,4 +1,19 @@
-# Apple Music 不亏本指南
+---
+layout: post
+title:  校园开放 API 的设想
+date:   2017-04-05 02:18
+categories: jekyll update
+author: Sam xx
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 ## 引言
 带你了解 Apple Music，以及适合什么人，如何使用才能物有所值。
@@ -65,6 +80,13 @@ Apple Music 劣势很明显，不符合国内用户的使用习惯，本文不�
 
 即使一个月只听到一张新专辑，也已经赚到了。
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
 
