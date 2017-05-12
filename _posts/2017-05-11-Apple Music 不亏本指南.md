@@ -6,19 +6,8 @@ categories: jekyll update
 author: Sam xx
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
 ## 引言
 带你了解 Apple Music，以及适合什么人，如何使用才能物有所值。
-
-__警告：本文具有强烈个人色彩__
 
 之所以想写这篇文章，是今天听 Checked 14 期时，三位主播在讨论付费订阅制，引导我思考的一个问题，如何让自己订阅的服务，值它的订阅费用。我订阅的服务好像只有 Apple Music 这一个，哎呀，穷逼的学生党嘛！所以想了想订阅的这个服务，自己有没有亏，结果促成了这篇文章。
 
@@ -79,14 +68,6 @@ Apple Music 有 3 个月的试用期，过了试用期之后，美区是 10 刀/
 Apple Music 劣势很明显，不符合国内用户的使用习惯，本文不是强行推荐 Apple Music，只是刚好满足我的使用需求，顺带说说怎样才能值回票价。
 
 即使一个月只听到一张新专辑，也已经赚到了。
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 ## 更新日志
 2017-05-11 晚上
