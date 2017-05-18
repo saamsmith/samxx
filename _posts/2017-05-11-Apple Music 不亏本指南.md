@@ -11,7 +11,7 @@ author: Sam xx
 
 之所以想写这篇文章，是今天听 [Checked 14][Checked 14] 期时，三位主播在讨论订阅制，启发我思考的一个问题，自己订阅的服务，值不值它的订阅费用。我订阅的服务不多，Apple Music 就是其中一个。
 
-[Checked 14]: https://checked.fm/14
+[Checked 14]: http://checked.fm/14
 
 ## 国内流媒体
 大家普遍使用的，应该是国内的流媒体，中国互联网环境下孕育的产物 _（付费接受度不高）_ ，即使是免费用户，体验也不差，轻度用户已经够用了，重度用户可以选择成为付费会员，获得更大的曲库和体验的提升，比如无损。下面说说几家口碑还不错的，和我的使用感受。
@@ -71,17 +71,18 @@ Apple Music 有 3 个月的试用期，试用期过后，美区是 10 刀/月，
 ## 如何使用
 
 ### iOS 界面
-![Apple Music For iOS](/samxx/assets/img/Apple Music iPhone.jpg)
+![Apple Music For iOS](/assets/img/Apple Music iPhone.jpg)
 
 ### Mac 界面
-![Apple Music For mac](/samxx/assets/img/Apple Music Albums.jpg)
-![Apple Music For mac](/samxx/assets/img/Apple Music For You.jpg)
+![Apple Music For mac](/assets/img/Apple Music Albums.jpg)
+![Apple Music For mac](/assets/img/Apple Music For You.jpg)
 
 ## 总结
 对于已经订阅了Apple Music的朋友，即使一个月只听到一张新专辑，也已经赚到了。
 
 ## 更新日志
 2017-05-11 晚上
+
 2017-05-19 凌晨
 
 
